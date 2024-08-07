@@ -2,7 +2,7 @@
 
 ## "Beautiful is better than ugly"
 
-![Murasa Minamitsu ANCHOR!!!](http://lh6.ggpht.com/-ZWk6DuXDQq8/TneMUkG4c9I/AAAAAAAGKfM/Xe3LOj-UmkM/l10970.png) 
+![A pretty prinny...](https://raw.githubusercontent.com/sqrggm/MY-STOCK-IMAGES/main/Random%20Images/pretty%20prinny.png) 
 
 I work with these things:
 ```
