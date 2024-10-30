@@ -11,7 +11,8 @@ I work with these things:
 - CSS
 - HTML
 - JavaScript
-- Python 
+- Python
+- Java
 - FIGMA 
 - U.X (User Experience) 
 - Mysql 
