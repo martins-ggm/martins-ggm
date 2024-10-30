@@ -1,5 +1,5 @@
 
-# A front-end student and Web Designer enjoyer ♪ ~ (´▽｀)/
+# A Full Stack Developer in Training ♪ ~ (´▽｀)/
 
 ## "Beautiful is better than ugly"
 
