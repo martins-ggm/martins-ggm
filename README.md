@@ -3,8 +3,6 @@
 
 ## "Beautiful is better than ugly"
 
-![A pretty prinny...](https://raw.githubusercontent.com/sqrggm/MY-STOCK-IMAGES/main/Random%20Images/pretty%20prinny.png) 
-
 I work with these things:
 ```
 - Web Design 
