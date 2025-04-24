@@ -1,26 +1,24 @@
+# Front-End Developer on Work ♪ ~ (´▽｀)/
 
-# A front-end developer on Training ♪ ~ (´▽｀)/
+Hi! just a passionate front-end developer crafting beautiful and user-friendly web experiences! Guided by the principle: *"Beautiful is better than ugly."*
 
-## "Beautiful is better than ugly"
+## 🛠️ Skills & Tools
+I specialize in modern front-end technologies to build dynamic and scalable web applications:
 
-I work with these things:
-```
-- Web Design 
-- CSS
-- HTML
-- JavaScript
-- Python
-- Java
-- FIGMA 
-- U.X (User Experience) 
-- Mysql 
-- SQLite
-```
-And a bit more...
+- **Core Technologies**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries**: React, Next.js
+- **Styling**: Tailwind CSS, Responsive Design
+- **Design & Prototyping**: Figma, UX (User Experience)
+- **Other**: Web Design, Component-Based Architecture, Performance Optimization
 
-----------------------------------------------------------
+Continuously exploring new tools and trends to create cutting-edge user interfaces.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sqrggm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+## 📊 My GitHub Stats
+![sqrggm's Stats](https://github-readme-stats.vercel.app/api?username=sqrggm&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sqrggm/)
+![sqrggm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqrggm&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+## 🌟 Let's Connect!
+Check out my projects below and feel free to reach out for collabs or just to chat about code, design, or coffee! ☕
+
+---
