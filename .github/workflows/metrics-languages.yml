@@ -1,0 +1,18 @@
+name: Languages Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch: # Permite executar manualmente
+jobs:
+  languages-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # Ignora linguagens específicas
+          plugin_languages_details: percentage # Mostra detalhes como porcentagem
+          plugin_languages_limit: 8 # Limita a 8 linguagens exibidas
