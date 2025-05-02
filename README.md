@@ -5,9 +5,8 @@ Hi! just a passionate front-end developer crafting beautiful and user-friendly w
 ## 🛠️ Skills & Tools
 I specialize in modern front-end technologies to build dynamic and scalable web applications:
 
-- **Core Technologies**: HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries**: React, Next.js
-- **Styling**: Tailwind CSS, Responsive Design
+- **Core Technologies**: HTML, CSS, JavaScript, TypeScript, Java, SQL
+- **Frameworks & Libraries**: React, Next.js, Angular, Express,Tailwind, Aceternity UI
 - **Design & Prototyping**: Figma, UX (User Experience)
 - **Other**: Web Design, Component-Based Architecture, Performance Optimization
 
