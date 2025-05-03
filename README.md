@@ -13,9 +13,9 @@ I specialize in modern front-end technologies to build dynamic and scalable web 
 Continuously exploring new tools and trends to create cutting-edge user interfaces.
 
 ## 📊 My GitHub Stats
-![sqrggm's Stats](https://github-readme-stats.vercel.app/api?username=sqrggm&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![martins-ggm's Stats](https://github-readme-stats.vercel.app/api?username=martins-ggm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![sqrggm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sqrggm&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![martins-ggm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ggm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 🌟 Let's Connect!
 Check out my projects below and feel free to reach out for collabs or just to chat about code, design, or coffee! ☕
