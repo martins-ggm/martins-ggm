@@ -1,23 +1,23 @@
-# Front-End Developer on Work ♪ ~ (´▽｀)/
+# Desenvolvedor Front-End em Ação ♪ ~ (´▽｀)/
 
-Hi! just a passionate front-end developer crafting beautiful and user-friendly web experiences! Guided by the principle: *"Beautiful is better than ugly."*
+Olá! Sou um desenvolvedor front-end apaixonado por criar experiências web bonitas e amigáveis ao usuário! Guio-me pelo princípio: *"O bonito é melhor que o feio."*
 
-## 🛠️ Skills & Tools
-I specialize in modern front-end technologies to build dynamic and scalable web applications:
+## 🛠️ Habilidades & Ferramentas
+Especializo-me em tecnologias front-end modernas para construir aplicações web dinâmicas e escaláveis:
 
-- **Core Technologies**: HTML, CSS, JavaScript, TypeScript, Java, SQL
-- **Frameworks & Libraries**: React, Next.js, Angular, Express,Tailwind, Aceternity UI
-- **Design & Prototyping**: Figma, UX (User Experience)
-- **Other**: Web Design, Component-Based Architecture, Performance Optimization
+- **Tecnologias Principais**: HTML, CSS, JavaScript, TypeScript, Java, SQL
+- **Frameworks & Bibliotecas**: React, Next.js, Angular, Express, Tailwind, Aceternity UI
+- **Design & Prototipagem**: Figma, UX (Experiência do Usuário)
+- **Outros**: Web Design, Arquitetura Baseada em Componentes, Otimização de Performance
 
-Continuously exploring new tools and trends to create cutting-edge user interfaces.
+Estou sempre explorando novas ferramentas e tendências para criar interfaces de usuário inovadoras.
 
-## 📊 My GitHub Stats
-![martins-ggm's Stats](https://github-readme-stats.vercel.app/api?username=martins-ggm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+## 📊 Minhas Estatísticas no GitHub
+![Estatísticas de martins-ggm](https://github-readme-stats.vercel.app/api?username=martins-ggm&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-![martins-ggm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ggm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Linguagens Mais Usadas por martins-ggm](https://github-readme-stats.vercel.app/api/top-langs/?username=martins-ggm&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 🌟 Let's Connect!
-Check out my projects below and feel free to reach out for collabs or just to chat about code, design, or coffee! ☕
+## 🌟 Vamos nos Conectar!
+Confira meus projetos abaixo e sinta-se à vontade para me contatar para colaborações ou apenas para conversar sobre código, design ou café! ☕
 
 ---
